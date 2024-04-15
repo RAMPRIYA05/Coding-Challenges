@@ -6,10 +6,9 @@ package com.chainsys.codingchallenges;
 	import java.util.*;
 	import java.util.concurrent.*;
 	import java.util.regex.*;
-	public class IfElseIf {
-
+	
+public class IfElseIf {
 	    private static final Scanner scanner = new Scanner(System.in);
-
 	    public static void main(String[] args) {
 	        int N = scanner.nextInt();
 	        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
